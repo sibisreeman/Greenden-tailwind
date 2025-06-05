@@ -42,5 +42,5 @@ Greenden is a responsive and modern website built using **HTML** and **Tailwind 
 
 ## 🚀 Getting Started
 
-To run the project locally:
+To run the project locally: https://sibisreeman.github.io/Greenden-tailwind/index.html
 
